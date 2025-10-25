@@ -11,5 +11,3 @@ resource "aws_instance" "name" {
       Name = "through jenkins"
     }
 }
- 
- 
